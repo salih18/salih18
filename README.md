@@ -7,6 +7,10 @@
       <img alt="html5"
         src="https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white" />
     </a>
+        <a href="https://salihsert.com" title="Website Badge">
+      <img alt="html5"
+        src="https://img.shields.io/badge/-WEB_RESUME-ff1709?style=flat-square&logo=vuedotjs&logoColor=00DC82" />
+    </a>
 </div>
 
 <br><br>
