@@ -29,7 +29,7 @@
   <br>
 
   <p>
-    Here is an excerpt of the tech stacks and the interests I have used so far.
+    Here is an excerpt of the tech stacks I have used so far and some of my interests. 
   </p>
 
 </div>
