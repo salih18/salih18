@@ -25,7 +25,7 @@
   <br>
 
   <p>
-    The programming languages, frameworks, libraries and tools that I have experiences are 
+    Here is an excerpt of the languages, frameworks, libraries and the tech stacks
   </p>
 
 </div>
