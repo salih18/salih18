@@ -17,9 +17,10 @@ I spend a large amount of my free time exploring the latest technology advanceme
 The programming languages, frameworks, libraries and tools that I have experiences are below.
 
 <br>
+<br>
 
-<a href="https://www.linkedin.com/in/salih18" title="Linkedin Profile">
-  <img alt="html5" src="https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+<a align='right' href="https://www.linkedin.com/in/salih18" title="Linkedin Profile">
+  <img alt="html5" align='right' src="https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 <br>
 
