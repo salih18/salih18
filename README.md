@@ -29,7 +29,7 @@
   <br>
 
   <p>
-    Here is an excerpt of the languages, frameworks, libraries and the tech stacks I have used so far.
+    Here is an excerpt of the tech stacks and interests I have used so far.
   </p>
 
 </div>
