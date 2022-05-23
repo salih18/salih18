@@ -80,6 +80,8 @@
   <img alt="terraform"
     src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Azure Cloud Platform"
+    src="https://img.shields.io/badge/-Azure_Functions-1a73e8?style=flat-square&logo=azurefunctions&logoColor=fdbd0f" />
+      <img alt="Azure Cloud Platform"
     src="https://img.shields.io/badge/-Microsoft_Azure_Cloud-1a73e8?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="Azure Cloud Platform"
     src="https://img.shields.io/badge/-Azure_Devops_Platform-1a73e8?style=flat-square&logo=azuredevops&logoColor=white" />
