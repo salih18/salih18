@@ -2,6 +2,9 @@
   <h2> Hi, I'm Salih! <img align='right' src="https://slackmojis.com/emojis/461-wow/image/1643514088/fb-wow.gif"
       width="30" />
   </h2>
+  
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="salih18" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/salih18?trk=profile-badge">Salih S.</a></div>
+              
   <div align='left'> 
     <a href="https://www.linkedin.com/in/salih18" title="Linkedin Profile">
       <img alt="html5"
