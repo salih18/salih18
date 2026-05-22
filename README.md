@@ -62,11 +62,6 @@
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salih18&theme=github_dark" alt="Salih's GitHub stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salih18&theme=github_dark" alt="Repos per language" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salih18&theme=github_dark" alt="Most-committed languages" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salih18&theme=github_dark&utcOffset=2" alt="Productive time" height="180"/>
 </p>
