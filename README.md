@@ -24,16 +24,6 @@
 **Backend** &nbsp;&nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; Django &nbsp;·&nbsp; GraphQL &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; MongoDB
 **Cloud & DevOps** &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Terraform &nbsp;·&nbsp; Azure Pipelines &nbsp;·&nbsp; Linux
 
-### Featured projects
-
-| Project | Stack | What it is |
-|---|---|---|
-| [**SiteVerifier**](https://github.com/salih18/SiteVerifier) | TypeScript | Site monitoring & verification tool |
-| [**task-manager-vue3**](https://github.com/salih18/task-manager-vue3) | Vue 3 · TypeScript | Modern task manager built with Vue 3 |
-| [**MERN-Todo-App**](https://github.com/salih18/MERN-Todo-App) | MongoDB · Express · React · Node | Todo app with authentication on the full MERN stack |
-| [**React-NextJS**](https://github.com/salih18/React-NextJS) | Next.js | Serverless fullstack shopping app |
-| [**my-gpt-client**](https://github.com/salih18/my-gpt-client) | Node.js | Command-line client for the ChatGPT API |
-
 ### GitHub stats
 
 <p align="center">
