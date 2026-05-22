@@ -62,17 +62,19 @@
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salih18&theme=github_dark" alt="Salih's GitHub stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salih18&theme=github_dark" alt="Repos per language" height="180"/>
+  <img height="190" src="https://streak-stats.demolab.com?user=salih18&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salih18&theme=github_dark" alt="Most-committed languages" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salih18&theme=github_dark&utcOffset=2" alt="Productive time" height="180"/>
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salih18&theme=github_dark" alt="GitHub stats summary"/>
+  &nbsp;
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salih18&theme=github_dark&utcOffset=2" alt="Productive time"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=salih18&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9" alt="GitHub streak"/>
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salih18&theme=github_dark" alt="Languages by repo count"/>
+  &nbsp;
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salih18&theme=github_dark" alt="Languages by commits"/>
 </p>
 
 ---
