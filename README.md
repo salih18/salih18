@@ -12,6 +12,16 @@
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salih18/salih18/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salih18/salih18/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/salih18/salih18/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+---
+
 ### Currently working on
 
 - Cloud platforms on **Azure** — AKS, Azure Pipelines, infrastructure as code
@@ -62,16 +72,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=salih18&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9" alt="GitHub streak"/>
-</p>
-
-### Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salih18/salih18/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salih18/salih18/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/salih18/salih18/output/github-contribution-grid-snake.svg"/>
-  </picture>
 </p>
 
 ---
