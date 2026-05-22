@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: salih18
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=0a0a0a&color_dots=ebebeb,d6d3d1,a8a29e,57534e,b8956a
-            dist/github-contribution-grid-snake-dark.svg?color_snake=f5f5f4&color_dots=1f1f1f,3a3a3a,6b6b6b,a8a29e,b8956a
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
