@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" preserveAspectRatio="xMidYMid meet">
+  <style>
+    .ink { fill: #1a1a1a; }
+    .muted { fill: #6b6b6b; }
+    .accent-stroke { stroke: #b8956a; stroke-width: 1; fill: none; }
+    .accent-fill { fill: #b8956a; }
+
+    @media (prefers-color-scheme: dark) {
+      .ink { fill: #e8e6e1; }
+      .muted { fill: #a39d93; }
+    }
+
+    .name {
+      font-family: Georgia, 'Times New Roman', 'Cormorant Garamond', serif;
+      font-weight: 400;
+      font-style: italic;
+      letter-spacing: 0.015em;
+    }
+    .subtitle {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 500;
+      letter-spacing: 0.55em;
+      text-transform: uppercase;
+    }
+    .label {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      letter-spacing: 0.45em;
+      text-transform: uppercase;
+    }
+
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+
+    .anim { opacity: 0; animation: fadeIn 1.4s ease-out forwards; }
+    .a1 { animation-delay: 0.2s; }
+    .a2 { animation-delay: 0.55s; }
+    .a3 { animation-delay: 1.0s; }
+    .a4 { animation-delay: 1.45s; }
+  </style>
+
+  <text x="600" y="90" font-size="11" text-anchor="middle" class="label muted anim a1">— PORTFOLIO &#183; GITHUB —</text>
+
+  <text x="600" y="215" font-size="120" text-anchor="middle" class="name ink anim a2">Salih</text>
+
+  <g class="anim a3">
+    <line x1="510" y1="255" x2="588" y2="255" class="accent-stroke"/>
+    <circle cx="600" cy="255" r="2.5" class="accent-fill"/>
+    <line x1="612" y1="255" x2="690" y2="255" class="accent-stroke"/>
+  </g>
+
+  <text x="600" y="300" font-size="13" text-anchor="middle" class="subtitle muted anim a4">Cloud Engineer &#183; Amsterdam</text>
+</svg>

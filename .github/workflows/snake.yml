@@ -15,13 +15,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVGs
+      - name: Generate snake SVGs (monochrome + copper accent)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: salih18
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=b8956a&color_dots=e7e5e4,d6d3d1,a8a29e,57534e,1c1917
+            dist/github-contribution-grid-snake-dark.svg?color_snake=b8956a&color_dots=0d0d0d,3f3f46,71717a,d4d4d4,fafaf9
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
